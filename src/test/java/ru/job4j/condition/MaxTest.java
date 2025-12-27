@@ -10,8 +10,8 @@ class MaxTest {
     void max() {
         int left = 1;
         int right = 2;
-        int result =Max.max(left, right);
-        int expected =2;
+        int result = Max.max(left, right);
+        int expected = 2;
         assertEquals(expected, result);
     }
 
