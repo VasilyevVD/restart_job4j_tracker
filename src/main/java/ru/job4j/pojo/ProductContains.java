@@ -8,4 +8,3 @@ public class ProductContains {
         System.out.println(isEqual);
     }
 }
-

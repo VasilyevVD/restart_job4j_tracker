@@ -58,4 +58,3 @@ public class License {
         this.created = LocalDate.of(year, mounth, dayOfMonth);
     }
 }
-
