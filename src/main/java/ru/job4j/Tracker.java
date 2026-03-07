@@ -52,7 +52,7 @@ public class Tracker {
             items[index] = item;
             return true;
         }
-        return true;
+        return false;
     }
 
     public void delete(int id) {
