@@ -21,7 +21,6 @@ public class ReconstructPhrase {
             if (i % 2 == 0) {
                 result.append(string);
             }
-            evenElement.add(string);
         }
         return result.toString();
     }
