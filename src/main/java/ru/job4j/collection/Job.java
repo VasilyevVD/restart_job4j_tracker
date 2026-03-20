@@ -1,5 +1,8 @@
 package ru.job4j.collection;
 
+import java.util.Collections;
+import java.util.Comparator;
+
 public class Job implements Comparable<Job> {
     private String name;
     private int priority;
